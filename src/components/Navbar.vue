@@ -27,7 +27,7 @@
 
           <v-list-item-content>
             <v-list-item-title>ZEROFOOD Admin</v-list-item-title>
-            <v-list-item-subtitle>Hussen Firas</v-list-item-subtitle>
+            <v-list-item-subtitle>Ahmed Aldabagh</v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
 
