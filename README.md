@@ -20,7 +20,7 @@ As an asynchronous event-driven JavaScript runtime, Node.js is designed to build
 
 ## Project setup 🙌
 
-## **Pleas Read the project needs first 👓!**
+## **Please Read the project deployment steps 👓!**
 
 #### First step 🙋
 
